@@ -6,10 +6,29 @@
     <description>Recent content on Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 16 Oct 2019 22:01:22 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2019 22:06:39 +0100</lastBuildDate>
     
 	<atom:link href="https://simon-void.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grading</title>
+      <link>https://simon-void.github.io/about/grading/</link>
+      <pubDate>Mon, 21 Oct 2019 22:06:39 +0100</pubDate>
+      
+      <guid>https://simon-void.github.io/about/grading/</guid>
+      <description>The grading will happen twice per year. Dan grading will be done once per year with the help of Stefan Stenudd. The grades will be Aikikai grades.
+Requirements/Techniques per Grade coming soon</description>
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>https://simon-void.github.io/about/organisation/</link>
+      <pubDate>Mon, 21 Oct 2019 22:06:25 +0100</pubDate>
+      
+      <guid>https://simon-void.github.io/about/organisation/</guid>
+      <description>Details to be decided upon.</description>
+    </item>
     
     <item>
       <title>Stenudd in London</title>
@@ -35,7 +54,7 @@
       <pubDate>Mon, 14 Oct 2019 21:51:50 +0100</pubDate>
       
       <guid>https://simon-void.github.io/about/links/</guid>
-      <description> Aikido Enighet in Malmö  </description>
+      <description> Aikido Enighet in Malmö Aikikai Hombu Dojo in Tokio  </description>
     </item>
     
     <item>
@@ -62,7 +81,8 @@
       <pubDate>Mon, 14 Oct 2019 21:41:42 +0100</pubDate>
       
       <guid>https://simon-void.github.io/about/privacy-notice/</guid>
-      <description>No cookies and no marketing.</description>
+      <description>No cookies, no tracking and no data is created/saved for future marketing.
+The contact message is send via AWS Lambda, but no data is retained (or even logs created), apart from the email in the dojos inbox, which is deleted after it has been answered.</description>
     </item>
     
     <item>
@@ -71,45 +91,46 @@
       <pubDate>Mon, 14 Oct 2019 21:38:29 +0100</pubDate>
       
       <guid>https://simon-void.github.io/about/schedule-n-address/</guid>
-      <description>&amp;times; Site Under Construction! Adress and Schedule are only placeholder and not real!  Adress 42 Nemo Rd
-N0W ERE London
-Schedule  Tuesday19:30-20:30 Thursday19:30-20:30 Saturday10:00-12:00</description>
+      <description>&amp;times; Site Under Construction! Adress and Schedule are only placeholder and not real!  Adress  Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.   42 Made Up Rd
+N0W ERE London  Price  first class is free x$ per week y$ per month 
+Schedule  Tuesday19:30-20:30 Thursday19:30-20:30 Saturday10:00-12:00 
+Opening Soon! Late 2019 or early 2020. If you have questions feel free to use the contact form</description>
     </item>
     
     <item>
       <title>Advanced Techniques</title>
-      <link>https://simon-void.github.io/about/videos-advanced/</link>
+      <link>https://simon-void.github.io/video/aikido-advanced/</link>
       <pubDate>Mon, 14 Oct 2019 21:37:38 +0100</pubDate>
       
-      <guid>https://simon-void.github.io/about/videos-advanced/</guid>
+      <guid>https://simon-void.github.io/video/aikido-advanced/</guid>
       <description>High Fall/Roll   Henka Waza - changing techniques   Kaeshi Waza - counter techniques   Centering   Aiki - joining energies   </description>
     </item>
     
     <item>
       <title>Attacks in Aikido</title>
-      <link>https://simon-void.github.io/about/videos-attacks/</link>
+      <link>https://simon-void.github.io/video/aikido-attacks/</link>
       <pubDate>Mon, 14 Oct 2019 21:37:38 +0100</pubDate>
       
-      <guid>https://simon-void.github.io/about/videos-attacks/</guid>
+      <guid>https://simon-void.github.io/video/aikido-attacks/</guid>
       <description>Grab Attacks   Strikes - attacker techniques   Aikido against Punches   Atemi - striking techniques   </description>
     </item>
     
     <item>
       <title>Basic Techniques</title>
-      <link>https://simon-void.github.io/about/videos-basic/</link>
+      <link>https://simon-void.github.io/video/aikido-basic/</link>
       <pubDate>Mon, 14 Oct 2019 21:37:38 +0100</pubDate>
       
-      <guid>https://simon-void.github.io/about/videos-basic/</guid>
+      <guid>https://simon-void.github.io/video/aikido-basic/</guid>
       <description>Ikkyo and Aiki Ken - sword applications   The part with swords is admittedly not a basic technique anymore. But the technique - Ikkyo - is the first fundamental technique of Aikido.
 Nikkyo   Sankyo   Yonkyo   Iriminage   Shionage   Kotegaeshi   Tenchinage   Kokyunage   Kokyuho   Ushiro - grips from behind   Suwari Kokyuho   </description>
     </item>
     
     <item>
       <title>Weapons in Aikido</title>
-      <link>https://simon-void.github.io/about/videos-weapons/</link>
+      <link>https://simon-void.github.io/video/aikido-weapons/</link>
       <pubDate>Mon, 14 Oct 2019 21:37:38 +0100</pubDate>
       
-      <guid>https://simon-void.github.io/about/videos-weapons/</guid>
+      <guid>https://simon-void.github.io/video/aikido-weapons/</guid>
       <description>Tanto Dori - defence against knife   Jo Dori - defence against staff   Ken Suburi - basic solo sword exercises   Aiki Ken - basic entering exercises   Aikibatto - ten duo sword exercises   </description>
     </item>
     
@@ -129,15 +150,6 @@ Nikkyo   Sankyo   Yonkyo   Iriminage   Shionage   Kotegaeshi   Tenchinage   Koky
       
       <guid>https://simon-void.github.io/about/stenudd/</guid>
       <description>Aliquam a lacus massa. Nam sagittis sit amet nunc ac tempor. In id libero sem. Nullam dictum tincidunt felis, sit amet molestie nibh. In eget erat imperdiet mauris tristique pharetra sit amet ac felis. Suspendisse tincidunt augue at eros tristique hendrerit. Integer eu ligula dignissim, cursus arcu facilisis, lobortis leo. Nulla facilisi. Suspendisse non tellus vitae sapien bibendum aliquet. In auctor blandit tortor vel fringilla. Pellentesque dapibus metus vel arcu pretium feugiat.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://simon-void.github.io/news/2019/10/my-first-post/</link>
-      <pubDate>Thu, 10 Oct 2019 20:27:01 +0100</pubDate>
-      
-      <guid>https://simon-void.github.io/news/2019/10/my-first-post/</guid>
-      <description>Und so beginnt es.</description>
     </item>
     
     <item>

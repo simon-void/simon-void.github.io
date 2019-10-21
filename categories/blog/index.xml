@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Aikido</title>
+    <link>https://simon-void.github.io/categories/blog/</link>
+    <description>Recent content in blog on Aikido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 16 Oct 2019 21:30:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://simon-void.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Becoming a Teacher</title>
+      <link>https://simon-void.github.io/blog/2019/10/becoming-a-teacher/</link>
+      <pubDate>Wed, 16 Oct 2019 21:30:46 +0100</pubDate>
+      
+      <guid>https://simon-void.github.io/blog/2019/10/becoming-a-teacher/</guid>
+      <description>It&amp;rsquo;s about time.</description>
+    </item>
+    
+  </channel>
+</rss>
