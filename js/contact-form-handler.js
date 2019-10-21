@@ -2,14 +2,16 @@
     'use strict'
     window.addEventListener('load', function() {
 
-        var form = $("#contact-form")
-        if(form.length) {
-            form.submit(function(event) {
+        var $form = $("#contact-form")
+        if($form.length) {
+            $form.submit(function(event) {
                 event.preventDefault()
-                var valueByNameMap = getValueByNameMap(form)
+                var valueByNameMap = getValueByNameMap($form)
                 submitMap(valueByNameMap)
             })
         }
+
+        showContactSpinner(false)
 
     }, false)
 })()
@@ -43,6 +45,8 @@ function submitMap(nameValueMap) {
     xhr.open('POST', postreq2mailUrl, true)
     xhr.onreadystatechange = function(event) {
         if(xhr.readyState === 4) {
+            showContactSpinner(false)
+
             var responseStatus = xhr.status
             if(responseStatus===200) {
                 var response = JSON.parse(event.target.response)
@@ -55,6 +59,8 @@ function submitMap(nameValueMap) {
             }
         }
     }
+
+    showContactSpinner(true)
     xhr.send(new Blob([JSON.stringify(nameValueMap, null, 2)], {type : 'application/json'}))
 }
 
@@ -80,5 +86,16 @@ function displaySentContactMsgResult(wasSuccessful, errorMessage) {
                 errorMessage +
             '</div>'
         )
+    }
+}
+
+function showContactSpinner(doShow) {
+    var $spinner = $("#contactSpinnerId").hide();
+    if($spinner.length) {
+        if(doShow===true) {
+            $spinner.show()
+        } else {
+            $spinner.hide()
+        }
     }
 }
