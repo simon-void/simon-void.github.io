@@ -11,7 +11,7 @@
             })
         }
 
-        showContactSpinner(false)
+        setStateIsSendingMessage(false)
 
     }, false)
 })()
@@ -45,7 +45,7 @@ function submitMap(nameValueMap) {
     xhr.open('POST', postreq2mailUrl, true)
     xhr.onreadystatechange = function(event) {
         if(xhr.readyState === 4) {
-            showContactSpinner(false)
+            setStateIsSendingMessage(false)
 
             var responseStatus = xhr.status
             if(responseStatus===200) {
@@ -60,7 +60,7 @@ function submitMap(nameValueMap) {
         }
     }
 
-    showContactSpinner(true)
+    setStateIsSendingMessage(true)
     xhr.send(new Blob([JSON.stringify(nameValueMap, null, 2)], {type : 'application/json'}))
 }
 
@@ -89,13 +89,18 @@ function displaySentContactMsgResult(wasSuccessful, errorMessage) {
     }
 }
 
-function showContactSpinner(doShow) {
-    var $spinner = $("#contactSpinnerId").hide();
-    if($spinner.length) {
-        if(doShow===true) {
-            $spinner.show()
+function setStateIsSendingMessage(isSending) {
+    var $sendButton = $("#contactButtonId")
+    if($sendButton.length) {
+        //remove the children
+        $sendButton.empty()
+        if(isSending===true) {
+            $sendButton.addClass("disabled")
+            $sendButton.append('<span class="spinner-border spinner-border-sm"></span>')
+            $sendButton.append(' Sending...')
         } else {
-            $spinner.hide()
+            $sendButton.removeClass("disabled")
+            $sendButton.append('Send')
         }
     }
 }
