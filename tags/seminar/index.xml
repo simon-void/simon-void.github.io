@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seminar on Aikido</title>
+    <link>https://simon-void.github.io/tags/seminar/</link>
+    <description>Recent content in seminar on Aikido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 16 Oct 2019 22:01:22 +0100</lastBuildDate>
+    
+	<atom:link href="https://simon-void.github.io/tags/seminar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stenudd in London</title>
+      <link>https://simon-void.github.io/seminar/2020/06/stenudd-london/</link>
+      <pubDate>Wed, 16 Oct 2019 22:01:22 +0100</pubDate>
+      
+      <guid>https://simon-void.github.io/seminar/2020/06/stenudd-london/</guid>
+      <description>Todo: content</description>
+    </item>
+    
+  </channel>
+</rss>
