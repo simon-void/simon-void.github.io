@@ -73,7 +73,7 @@ The contact message is send via AWS Lambda, but no data is retained (or even log
       <pubDate>Mon, 14 Oct 2019 21:38:29 +0100</pubDate>
       
       <guid>https://simon-void.github.io/about/schedule-n-address/</guid>
-      <description>&amp;times; Site Under Construction! Adress and Schedule are only placeholder and not real!  Adress  Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.   42 Made Up Rd
+      <description>&amp;times; Site Under Construction! Address and Schedule are only placeholder and not real!  Address  Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.   42 Made Up Rd
 N0W ERE London  Price  first class is free x$ per week y$ per month 
 Schedule  Tuesday19:30-20:30 Thursday19:30-20:30 Saturday10:00-12:00 
 Opening Soon! Late 2019 or early 2020. If you have questions feel free to use the contact form</description>
@@ -85,9 +85,7 @@ Opening Soon! Late 2019 or early 2020. If you have questions feel free to use th
       <pubDate>Sun, 13 Oct 2019 18:40:41 +0100</pubDate>
       
       <guid>https://simon-void.github.io/about/teachers/</guid>
-      <description>Stephan Schroeder: 3rd Dan Aikikai 
-started with Aikido in 2003 while still at university and never stopped.
-After finishing the university, he moved to Berlin where he continued his training in a dojo that was affiliated with Watanabe Nobuyuki, 8 Dan, (†2018) whose seminars Stephan visited for many years. The thing with Watanabe Sensei was that you probably didn&amp;rsquo;t end up with concrete answers but with very interesting questions.</description>
+      <description>Stephan Schroeder: 3rd Dan Aikikai   started with Aikido in 2003 while still at university and never stopped.  After finishing the university, he moved to Berlin where he continued his training in a dojo that was affiliated with Watanabe Nobuyuki, 8 Dan, (†2018) whose seminars Stephan visited for many years. The thing with Watanabe Sensei was that you probably didn&#39;t end up with concrete answers but with very interesting questions.</description>
     </item>
     
     <item>
@@ -97,16 +95,16 @@ After finishing the university, he moved to Berlin where he continued his traini
       
       <guid>https://simon-void.github.io/about/stenudd/</guid>
       <description>Stefan Stenudd: 7th Dan Aikikai, 4th Dan Iaido 
-Stefan Stenudd is an artist in many ways, a natuaral leader and gets easily bored. Yet after more that 40 years of Aikido he has yet to become bored by his own Aikido. It&amp;rsquo;s easy to assume that one got an idea of what Stefan&amp;rsquo;s Aikido looks like, but prolonged exposure will reveal its wide range and depth. This might partly be explained by a concious effort to avoid one of the trappings of being a teacher: to only teach that which you consider yourself to be &amp;ldquo;good&amp;rdquo; in.</description>
+Stefan Stenudd is an artist in many ways, a natural leader and gets easily bored. Yet after more that 40 years of Aikido he has yet to become bored by his own Aikido. It&amp;rsquo;s easy to assume that one got an idea of what Stefan&amp;rsquo;s Aikido looks like, but prolonged exposure will reveal its wide range and depth. This might partly be explained by a concious effort to avoid one of the trappings of being a teacher: to only teach that which you consider yourself to be &amp;ldquo;good&amp;rdquo; in.</description>
     </item>
     
     <item>
-      <title>About Aikido</title>
+      <title></title>
       <link>https://simon-void.github.io/about/aikido/</link>
       <pubDate>Thu, 10 Oct 2019 19:04:46 +0200</pubDate>
       
       <guid>https://simon-void.github.io/about/aikido/</guid>
-      <description>Aikido is cool.</description>
+      <description>Aikido  is cool.  and a modern martial art that  Morihei Ueshiba, aka O&#39;Sensei  was the founder of Aikido.  </description>
     </item>
     
   </channel>
